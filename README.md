@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 👋Hola soy Anton Zorrilla Ibañez mas conocido como @antonazua o ANTONAZUA CAMIONERO
+## 👀 Estoy interesado en: creacion videojuegos con Unity 3D, programacion con Visual Studio Code y diseño con blender para crear objetos, entre otras muchas cosas mas ...
+## 📫 en caso de preguntas contacteme por correo electronico o whatsApp que lo pasare por correo si se me pide
 <!--
 **antonazua/antonazua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
